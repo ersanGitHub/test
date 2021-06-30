@@ -7,7 +7,7 @@ public class jdbcTool {
     public static void main(String [] args){ }
     /**
      * 工具类中的方法都是私有的，
-     * 因为工具类中的方法都是静态的，不需要new一个对象，直接采用类名去钓友
+     * 因为工具类中的方法都是静态的，不需要new一个对象，直接采用类名
      *
      */
     private  jdbcTool(){}
